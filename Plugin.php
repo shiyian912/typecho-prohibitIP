@@ -1,7 +1,7 @@
 <?php
 /**
  * 禁止中国大陆IP访问
- * 被禁止的IP会显示一个提示
+ * 被禁止的IP会显示一个提示页面
  * @package ProhibitIP
  * @author chatgpt-4
  * @version 1.3
